@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/kieuoanh176/helingstudy/static/css/main.127ae301.chunk.css",
-    "main.js": "/kieuoanh176/helingstudy/static/js/main.0c72eecf.chunk.js",
-    "main.js.map": "/kieuoanh176/helingstudy/static/js/main.0c72eecf.chunk.js.map",
-    "runtime-main.js": "/kieuoanh176/helingstudy/static/js/runtime-main.457e503a.js",
-    "runtime-main.js.map": "/kieuoanh176/helingstudy/static/js/runtime-main.457e503a.js.map",
-    "static/js/2.f5f4f8c0.chunk.js": "/kieuoanh176/helingstudy/static/js/2.f5f4f8c0.chunk.js",
-    "static/js/2.f5f4f8c0.chunk.js.map": "/kieuoanh176/helingstudy/static/js/2.f5f4f8c0.chunk.js.map",
-    "static/js/3.81d976f7.chunk.js": "/kieuoanh176/helingstudy/static/js/3.81d976f7.chunk.js",
-    "static/js/3.81d976f7.chunk.js.map": "/kieuoanh176/helingstudy/static/js/3.81d976f7.chunk.js.map",
-    "index.html": "/kieuoanh176/helingstudy/index.html",
-    "static/css/main.127ae301.chunk.css.map": "/kieuoanh176/helingstudy/static/css/main.127ae301.chunk.css.map",
-    "static/js/2.f5f4f8c0.chunk.js.LICENSE.txt": "/kieuoanh176/helingstudy/static/js/2.f5f4f8c0.chunk.js.LICENSE.txt"
+    "main.css": "/helingstudy/static/css/main.127ae301.chunk.css",
+    "main.js": "/helingstudy/static/js/main.0c72eecf.chunk.js",
+    "main.js.map": "/helingstudy/static/js/main.0c72eecf.chunk.js.map",
+    "runtime-main.js": "/helingstudy/static/js/runtime-main.14331e10.js",
+    "runtime-main.js.map": "/helingstudy/static/js/runtime-main.14331e10.js.map",
+    "static/js/2.dd73b116.chunk.js": "/helingstudy/static/js/2.dd73b116.chunk.js",
+    "static/js/2.dd73b116.chunk.js.map": "/helingstudy/static/js/2.dd73b116.chunk.js.map",
+    "static/js/3.81d976f7.chunk.js": "/helingstudy/static/js/3.81d976f7.chunk.js",
+    "static/js/3.81d976f7.chunk.js.map": "/helingstudy/static/js/3.81d976f7.chunk.js.map",
+    "index.html": "/helingstudy/index.html",
+    "static/css/main.127ae301.chunk.css.map": "/helingstudy/static/css/main.127ae301.chunk.css.map",
+    "static/js/2.dd73b116.chunk.js.LICENSE.txt": "/helingstudy/static/js/2.dd73b116.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.457e503a.js",
-    "static/js/2.f5f4f8c0.chunk.js",
+    "static/js/runtime-main.14331e10.js",
+    "static/js/2.dd73b116.chunk.js",
     "static/css/main.127ae301.chunk.css",
     "static/js/main.0c72eecf.chunk.js"
   ]
