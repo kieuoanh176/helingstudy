@@ -1,8 +1,8 @@
 import firebase from "firebase";
 
 var firebaseConfig = {
-  apiKey: "AIzaSyBUIDSrbTLNggsGIxF5_hrUbDsleMxctwE", // Add API Key
-  databaseURL:"https://gg-meet-clone-6c837-default-rtdb.firebaseio.com" // Add databaseURL
+  apiKey: "AIzaSyDI_9mt4FVd2dmd-SitGMrNFtqjlBO7PXk", // Add API Key
+  databaseURL:"https://streaming-a5085-default-rtdb.firebaseio.com" // Add databaseURL
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
