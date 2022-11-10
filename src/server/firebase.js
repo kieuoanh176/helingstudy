@@ -1,5 +1,5 @@
 import firebase from 'firebase/app';
-import 'firebase/<PACKAGE>';
+
 
 var firebaseConfig = {
   apiKey: "AIzaSyDI_9mt4FVd2dmd-SitGMrNFtqjlBO7PXk", // Add API Key
